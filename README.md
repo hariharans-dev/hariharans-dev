@@ -1,4 +1,3 @@
-[![MasterHead](https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hariharan S</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
