@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hariharans.developer@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1v5OZmssSFcZevQyZRYHiKHy33WpI5d6S](https://drive.google.com/drive/folders/1v5OZmssSFcZevQyZRYHiKHy33WpI5d6S)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1v5OZmssSFcZevQyZRYHiKHy33WpI5d6S](https://drive.google.com/file/d/1y-Mi8huFoZEBocUlV-lQNFxU3-NO6DXf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
