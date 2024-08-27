@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React JS, No code**
 
-- 📫 How to reach me **hariharans.developer@gmail.com*
+- 📫 How to reach me **hariharans.developer@gmail.com* & personnel website https://hariharans.me
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1v5OZmssSFcZevQyZRYHiKHy33WpI5d6S](https://drive.google.com/file/d/1fcx1jSVe-bTx7ekTcubOoxj2dMYZpcWR/view?pli=1)
 
