@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS, No code**
 
-- 📫 How to reach me <a href="mailto:hariharans.developer@gmail.com">Send Email</a>
+- 📫 How to reach me <a href="mailto:hariharans.developer@gmail.com?subject=Inquiry&body=Hello,%0D%0A%0D%0AI would like to inquire about...">Contact Us</a>
  </br>personnel website https://hariharans.me</br> personnel blog website https://blog.hariharans.me </br>linkedin profile https://www.linkedin.com/in/hariharan-s-562027226/
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1-v9qtPmXzoAsPNHzu1GoQySQlUOfl4Ub/view?usp=sharing)
