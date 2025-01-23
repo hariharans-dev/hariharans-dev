@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **React JS, No code**
 
 - 📫 How to reach me *hariharans.developer@gmail.com*
- </br>personnel website https://hariharans.me</br> personnel blog website https://blog.hariharans.me </br>linkedin profile https://www.linkedin.com/in/hariharan-s-562027226/
+ </br>personnel website https://hariharans.cloud</br> personnel blog website https://blog.hariharans.cloud </br>linkedin profile https://www.linkedin.com/in/hariharan-s-562027226/
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1-v9qtPmXzoAsPNHzu1GoQySQlUOfl4Ub/view?usp=sharing)
 
