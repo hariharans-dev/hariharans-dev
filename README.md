@@ -1,72 +1,167 @@
-<h1 align="center">Hi 👋, I'm Hariharan S</h1>
-<h3 align="center">Passionate Analyst & Developer</h3>
-<p align="center">
-  📍 Based in India <br>
-  🚀 Enthusiast in Software Engineering, Cloud Architecture, and Web Development
-</p>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Hariharan+S;Analyst+%26+Full+Stack+Developer;Building+scalable+solutions" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariharan182003&label=Profile%20views&color=0e75b6&style=flat" alt="shariharan182003" /> </p>
+<br/>
 
-- 🌱 I’m currently learning **React JS, No code**
+**Passionate about Software Engineering, Cloud Architecture & Web Development**
 
-- 📫 How to reach me *hariharans.developer@gmail.com*
- </br>personnel website https://hariharans.cloud</br> personnel blog website http://blog.hariharans.cloud </br>linkedin profile https://www.linkedin.com/in/hariharan-s-562027226/
-
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1-v9qtPmXzoAsPNHzu1GoQySQlUOfl4Ub/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/HariHar24773831/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hariharans" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hariharan-s-562027226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hariharan-s-562027226/" height="30" width="40" /></a>
-<a href="https://instagram.com/hariharan_s182003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hariharan_s182003" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hari_182003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hari_182003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/shariharan182003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shariharan182003" height="30" width="40" /></a>
-</p>
-
-<div>
-<!-- Favorite Tools -->
-🛠 My Favorite Tools
- <h3>👨‍💻 Programming Languages</h3>
- <p>
-  <a href="#"><img alt="C" src="https://img.shields.io/badge/-C-283593?style=flat-square&logo=c&logoColor=white"></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/-C++-00549D?style=flat-square&logo=cplusplus&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4.svg?style=flat-square&logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=yellow"></a>
-  <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"></a>
-   <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-025E8C.svg?style=flat-square&logo=java&logoColor=white"></a>
- </p>
- <h3>🧰 Frameworks and Libraries</h3>
- <p>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"></a>
-  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=flat-square&logo=express&logoColor=white"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>           
- </p>
- <h3>🗄 Databases and Cloud Hosting</h3>
-  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=flat-square&logo=mysql&logoColor=white"></a>
-  
- <h3>💻 Software and Tools</h3>
- <p>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white"></a>
- </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=shariharan182003&label=Profile%20Views&color=00D9FF&style=flat-square)](https://github.com/shariharan182003)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharan-s-562027226/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/HariHar24773831/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hariharans.developer@gmail.com)
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharans-dev&show_icons=true&locale=en&layout=compact" alt="hariharans-dev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariharans-dev&show_icons=true&locale=en" alt="hariharans-dev" /></p>
+## 🎯 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharans-dev&" alt="hariharans-dev" /></p>
+```
+Hariharan S
+├── 📍 Location: Hyderabad, India
+├── 🚀 Focus: Full Stack Development, Cloud Architecture, Data Analytics
+├── 💡 Currently Learning: React JS, No-Code Solutions
+├── 💼 Passion: Building scalable, performant web applications
+└── 🎓 Always learning and exploring new technologies
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<div align="center">
+
+![C](https://img.shields.io/badge/-C-283593?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00549D?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### 🧰 Frameworks & Libraries
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+### 🗄️ Databases & Cloud
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="center">
+
+![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=hariharans-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharans-dev&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="Top Languages" width="48%" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hariharans-dev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/hari_182003)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shariharan182003)
+
+</div>
+
+---
+
+## 📱 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | [hariharan-s-562027226](https://www.linkedin.com/in/hariharan-s-562027226/) |
+| 🐦 **Twitter** | [@HariHar24773831](https://twitter.com/HariHar24773831/) |
+| 📷 **Instagram** | [@hariharan_s182003](https://instagram.com/hariharan_s182003) |
+| 🌐 **Portfolio** | [hariharans.cloud](https://hariharans.cloud) |
+| 📝 **Blog** | [blog.hariharans.cloud](http://blog.hariharans.cloud) |
+| 📧 **Email** | [hariharans.developer@gmail.com](mailto:hariharans.developer@gmail.com) |
+| 📄 **Resume** | [View on Google Drive](https://drive.google.com/file/d/1-v9qtPmXzoAsPNHzu1GoQySQlUOfl4Ub/view?usp=sharing) |
+
+</div>
+
+---
+
+## 💡 What I'm Working On
+
+- 🔨 Building scalable full-stack applications
+- 📚 Mastering advanced React patterns and modern JavaScript
+- ☁️ Exploring AWS cloud architecture and deployment strategies
+- 🤖 Diving into AI/ML integration for web applications
+- 🎨 Creating intuitive and accessible user interfaces
+
+---
+
+## 📈 Featured Skills
+
+```
+Full Stack Development     ████████████████░░ 90%
+Cloud Architecture        ███████████████░░░ 85%
+Database Design          ████████████████░░ 88%
+Web Development          ██████████████████ 95%
+Problem Solving          ██████████████████ 95%
+```
+
+---
+
+<div align="center">
+
+### 🌟 Fun Facts
+
+- ⚡ I love optimizing code for performance
+- 🎮 Competitive programmer with a passion for problem-solving
+- 📚 Constantly exploring new technologies and frameworks
+- ☕ Coffee-driven developer
+
+---
+
+<!-- Footer -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+**Last updated:** April 2026 | Made with ❤️ by Hariharan S
+
+</div>
